@@ -1,5 +1,5 @@
 # grading-system
-Use a test menu to demo the non-final version of a grading system
+Use a test menu to demo a grading system
 
 ## Instructions
 
