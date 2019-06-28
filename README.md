@@ -2,7 +2,7 @@
 Use a test menu to demo the non-final version of a grading system
 
 ## About
-Final project for CSC 440 (Software Engineering course) at Adelphi University. Developed with [Java](https://www.java.com/en/) and [JavaFX](https://openjfx.io/) using [BlueJ](https://www.bluej.org/).
+Final project for CSC 440 (Software Engineering course) at [Adelphi University](https://www.adelphi.edu/). Developed with [Java](https://www.java.com/en/) and [JavaFX](https://openjfx.io/) using [BlueJ](https://www.bluej.org/).
 
 There are three types of users to select from, each with certain functions:
 
