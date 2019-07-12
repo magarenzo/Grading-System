@@ -67,3 +67,7 @@ There are three types of users to select from, each with certain functions:
 * Christopher Thai
 
 * John Zaino
+
+---
+
+This was originally created as the final project cor CSC 440 (Software Engineering).
