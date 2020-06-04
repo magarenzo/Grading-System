@@ -1,4 +1,5 @@
-# grading-system
+# Grading System
+
 Use a test menu to demo a grading system
 
 ## Instructions
@@ -18,7 +19,7 @@ Final project for CSC 440 (Software Engineering course) at [Adelphi University](
 
 There are three types of users to select from, each with certain functions:
 
-#### Student
+### Student
 
 * View Course
 
@@ -28,7 +29,7 @@ There are three types of users to select from, each with certain functions:
 
 * Drop Course
 
-#### Teaching Assistant
+### Teaching Assistant
 
 * View Course
 
@@ -38,7 +39,7 @@ There are three types of users to select from, each with certain functions:
 
 * Access Roster
 
-#### Professor
+### Professor
 
 * View Course
 
@@ -68,6 +69,4 @@ There are three types of users to select from, each with certain functions:
 
 * John Zaino
 
----
-
-This was originally created as the final project cor CSC 440 (Software Engineering).
+* This was originally created as the final project cor CSC 440 (Software Engineering).
