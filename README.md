@@ -64,7 +64,7 @@ There are three types of users to select from, each with certain functions:
 
 ## Owners
 
-* [Michael A. Agarenzo](https://magarenzo.com)
+* [Michael A.](https://linkedin.com/in/magarenzo)
 
 * Christopher Thai
 
